@@ -63,7 +63,7 @@ const businessPlans = [
   {
     name: "Starter",
     speed: "Up to 500 Mbps",
-    price: 89,
+    price: 1699,
     description: "Small teams and startups",
     features: [
       { text: "500 Mbps symmetric", included: true },
@@ -81,7 +81,7 @@ const businessPlans = [
   {
     name: "Professional",
     speed: "2 Gbps",
-    price: 199,
+    price: 1999,
     description: "Growing businesses and enterprises",
     features: [
       { text: "2 Gbps symmetric", included: true },
@@ -99,7 +99,7 @@ const businessPlans = [
   {
     name: "Enterprise",
     speed: "10 Gbps",
-    price: 499,
+    price: 2999,
     description: "Large-scale operations, custom SLA",
     features: [
       { text: "10 Gbps symmetric", included: true },
