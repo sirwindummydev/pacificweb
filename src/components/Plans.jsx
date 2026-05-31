@@ -24,7 +24,7 @@ const homePlans = [
   {
     name: "Standard",
     speed: "Up to 100 Mbps",
-    price: 1299,
+    price: 1399,
     description: "Ideal for families and remote workers",
     features: [
       { text: "500 Mbps download", included: true },
@@ -42,7 +42,7 @@ const homePlans = [
   {
     name: "Premium",
     speed: "Up to 150 Mbps",
-    price: 1499,
+    price: 1999,
     description: "Maximum performance for power users",
     features: [
       { text: "1 Gbps download", included: true },

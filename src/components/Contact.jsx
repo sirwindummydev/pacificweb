@@ -14,8 +14,8 @@ const contactInfo = [
   {
     icon: Phone,
     label: "Call Us",
-    value: "1-800-PACWEB",
-    sub: "Toll-free, 24/7",
+    value: "0960-334-7000 / 0917-164-6000",
+    sub: "Always ready to assist you",
     href: "tel:1800PACWEB",
   },
   {
